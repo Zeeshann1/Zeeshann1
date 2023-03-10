@@ -1,11 +1,13 @@
 <h2> Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 <div align="left" width="50">
 </div>
- 
+</p>
 
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zeeshann1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
- </p>
+#### I am Zeeshan Hyder, AI Algorithm Engineer.
+
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshann1&langs_count=8&theme=prussian&layout=compact&card_width=445)  
+![Github Stars](https://github-readme-stats.vercel.app/api?username=zeeshann1&show_icons=true&locale=en&count_private=true&hide=stars&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) 
   
 #  Skills
 ## Deep Learning Frameworks
@@ -37,7 +39,6 @@
   </p>
 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshann1&layout=compact)](https://github.com/Zeeshann1/github-readme-stats)
  
 # 📞 Connect with me
 <p align="left">
