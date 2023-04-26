@@ -37,11 +37,23 @@
       height="35" /></a>
       &nbsp;
   </p>
+  
+  ## Front-end Web Development
 
- 
- 
+<p align="left">
+<a href="https://www.gradio.app/" target="blank"><img align="center"
+      src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
+      height="50" /></a>
+ &nbsp;
+<a href="https://github.com/streamlit/streamlit" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"
+      height="45" /></a>
+ </p>
+
 # 📞 Connect with me
 <p align="left">
-      <a href="https://www.linkedin.com/in/zeeshan/" target="blank"><img align="center"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+      <a href="https://www.linkedin.com/in/zeeshan-hyder-496a28123/" target="blank"><img align="center"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://github.com/zeeshann1" target="blank"><img align="center"
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   
