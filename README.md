@@ -41,6 +41,18 @@
       &nbsp;
   </p>
   
+   ## Testing and Analysis
+<p align="left">
+      <a href="https://perfdog.wetest.net/article_detail?id=1&issue_id=0&plat_id=1"><img align="center" 
+      src="https://th.bing.com/th/id/R.a3884539d8531bc4f1fbaf5efd4e377b?rik=XN8Xog4gl8pgvA&riu=http%3a%2f%2fwww.downxia.com%2fuploadfiles%2f2020%2f0720%2f20200720015337720.png&ehk=SGjN%2byW2kRLatPkT%2fGIciztLa69mae9BQ%2b4w7Ztif0Y%3d&risl=&pid=ImgRaw&r=0" 
+      height="35" /></a>
+      &nbsp;
+      <a href="https://www.wetest.net/" target="blank"><img align="center" 
+      src="https://miro.medium.com/v2/resize:fit:552/1*4dS1r8wh9QIyoFqg7rbSvg.png" 
+      height="20" /></a>
+      &nbsp;
+  </p>
+  
   ## Front-end Web Development
 
 <p align="left">
