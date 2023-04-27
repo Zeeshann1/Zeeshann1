@@ -12,17 +12,20 @@
 #  Skills
 ## Deep Learning Frameworks
 <p align="left">
-
-<a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/pytorch.svg"
+      <a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
+      src="https://i0.wp.com/www.marktechpost.com/wp-content/uploads/2020/11/pytorch-logo-dark.png?fit=1025%2C205&ssl=1"
+      height="30" /></a>
+      &nbsp;
+      <a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
+      src="https://analyticsindiamag.com/wp-content/uploads/2018/01/tensorflow-1024x200.png" 
       height="35" /></a>
-&nbsp;
-<a href="https://github.com/tensorflow/tensorflow" target="blank"><img align="center" 
-      src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-layout.svg" 
-      height="35" /></a>
+      &nbsp;
+      <a href="https://github.com/onnx/onnx" target="blank"><img align="center" 
+      src="https://artwork.lfaidata.foundation/projects/onnx/horizontal/black/onnx-horizontal-black.png" 
+      height="30" /></a>
 </p>
  
- ## Hardware 
+ ## Hardware Development
 <p align="left">
       <a href="https://www.arduino.cc/" target="blank"><img align="center" 
       src="http://content.arduino.cc/brand/arduino-color.svg" 
@@ -43,11 +46,11 @@
 <p align="left">
 <a href="https://www.gradio.app/" target="blank"><img align="center"
       src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
-      height="50" /></a>
+      height="65" /></a>
  &nbsp;
 <a href="https://github.com/streamlit/streamlit" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"
-      height="45" /></a>
+      height="55" /></a>
  </p>
 
 # 📞 Connect with me
