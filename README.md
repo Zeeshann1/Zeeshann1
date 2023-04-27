@@ -59,4 +59,8 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://github.com/zeeshann1" target="blank"><img align="center"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+ 
+  </p>
+ <p align="left"> 
+     <img src= "https://komarev.com/ghpvc/?username=zeeshann1&color=ff69b4&style=flat-square%22%20alt=%22zeeshann1" /> </p>
   
