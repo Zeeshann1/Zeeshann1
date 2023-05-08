@@ -5,13 +5,17 @@
 
 #### I am Zeeshan Hyder, AI Algorithm Engineer.
 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshann1&langs_count=8&theme=prussian&layout=compact&card_width=445)  
-![Github Stars](https://github-readme-stats.vercel.app/api?username=zeeshann1&show_icons=true&locale=en&count_private=true&hide=stars&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=prussian) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshann1&show_icons=true&locale=en&layout=compact" alt="zeeshann1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeshann1&show_icons=true&locale=en" alt="zeeshann1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshann1&" alt="zeeshann1" />
+
+</p>  
   
-#  Skills
-## Deep Learning Frameworks
-<p align="left">
+# Skills
+### Deep Learning Frameworks
+<p align="center">
       <a href="https://github.com/pytorch/pytorch" target="blank"><img align="center"
       src="https://i0.wp.com/www.marktechpost.com/wp-content/uploads/2020/11/pytorch-logo-dark.png?fit=1025%2C205&ssl=1"
       height="30" /></a>
@@ -25,8 +29,8 @@
       height="30" /></a>
 </p>
  
- ## Hardware Development
-<p align="left">
+ ### Hardware Development
+<p align="center">
       <a href="https://www.arduino.cc/" target="blank"><img align="center" 
       src="http://content.arduino.cc/brand/arduino-color.svg" 
       height="35" /></a>
@@ -41,8 +45,8 @@
       &nbsp;
   </p>
   
-   ## Testing and Analysis
-<p align="left">
+   ### Testing and Analysis
+<p align="center">
       <a href="https://perfdog.wetest.net/article_detail?id=1&issue_id=0&plat_id=1"><img align="center" 
       src="https://th.bing.com/th/id/R.a3884539d8531bc4f1fbaf5efd4e377b?rik=XN8Xog4gl8pgvA&riu=http%3a%2f%2fwww.downxia.com%2fuploadfiles%2f2020%2f0720%2f20200720015337720.png&ehk=SGjN%2byW2kRLatPkT%2fGIciztLa69mae9BQ%2b4w7Ztif0Y%3d&risl=&pid=ImgRaw&r=0" 
       height="35" /></a>
@@ -53,9 +57,9 @@
       &nbsp;
   </p>
   
-  ## Front-end Web Development
+  ### Front-end Web Development
 
-<p align="left">
+<p align="center">
 <a href="https://www.gradio.app/" target="blank"><img align="center"
       src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
       height="65" /></a>
@@ -66,13 +70,13 @@
  </p>
 
 # 📞 Connect with me
-<p align="left">
+<p align="center">
       <a href="https://www.linkedin.com/in/zeeshan-hyder-496a28123/" target="blank"><img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
       <a href="https://github.com/zeeshann1" target="blank"><img align="center"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
  
   </p>
- <p align="left"> 
+ <p align="center"> 
      <img src= "https://komarev.com/ghpvc/?username=zeeshann1&color=ff69b4&style=flat-square%22%20alt=%22zeeshann1" /> </p>
   
