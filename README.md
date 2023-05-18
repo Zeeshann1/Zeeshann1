@@ -33,7 +33,7 @@
 <p align="center">
       <a href="https://www.arduino.cc/" target="blank"><img align="center" 
       src="http://content.arduino.cc/brand/arduino-color.svg" 
-      height="35" /></a>
+      height="50" /></a>
       &nbsp;
       <a href="https://www.raspberrypi.com/" target="blank"><img align="center" 
       src="http://mastersofmedia.hum.uva.nl/wp-content/uploads/2014/09/raspberry_logo.png" 
