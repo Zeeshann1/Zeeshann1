@@ -37,11 +37,15 @@
       &nbsp;
       <a href="https://www.raspberrypi.com/" target="blank"><img align="center" 
       src="http://mastersofmedia.hum.uva.nl/wp-content/uploads/2014/09/raspberry_logo.png" 
-      height="35" /></a>
+      height="45" /></a>
       &nbsp;
       <a href="https://www.intel.com/content/www/us/en/developer/tools/neural-compute-stick/overview.html" target="blank"><img align="center" 
       src="https://pngimg.com/uploads/intel/intel_PNG12.png" 
-      height="35" /></a>
+      height="40" /></a>
+      &nbsp;
+      <a href="https://www.rock-chips.com/a/en/" target="blank"><img align="center" 
+      src="https://libreelec.tv/img/downloads/logo-rockchip.png" 
+      height="65" /></a>
       &nbsp;
   </p>
   
