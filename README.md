@@ -67,6 +67,27 @@
       src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"
       height="55" /></a>
  </p>
+ 
+ ### Integrated Development Environments (IDEs)
+ 
+ <p align="center">
+<a href="https://developer.android.com/studio" target="blank"><img align="center"
+      src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"
+      height="65" /></a>
+ &nbsp;
+<a href="https://visualstudio.microsoft.com/"><img align="center"
+      src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg"
+      height="55" /></a>
+ &nbsp;
+<a href="https://jupyter.org/"><img align="center"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCkeznrhAu9wn89yV1H1NCbRSd4zGPzLlHdem2mmmw18i2Td69BC-GPsyJZv9lYJIqLxs&usqp=CAU"
+      height="59" /></a>
+&nbsp;
+<a href="https://www.jetbrains.com/pycharm/"><img align="center"
+      src="https://static.wixstatic.com/media/334ba2_ffaba53f89cc46be846b5d1ef8b1a992~mv2.png/v1/fill/w_504,h_173,al_c,lg_1,q_85,enc_auto/334ba2_ffaba53f89cc46be846b5d1ef8b1a992~mv2.png"
+      height="50" /></a>
+ </p>
+ 
 
 # 📞 Connect with me
 <p align="center">
