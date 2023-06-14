@@ -57,7 +57,6 @@
   </p>
   
   ### Front-end Web Development
-
 <p align="center">
 <a href="https://www.gradio.app/" target="blank"><img align="center"
       src="https://img.stackshare.io/service/12683/2KMkheJx_400x400.png"
@@ -69,7 +68,6 @@
  </p>
  
  ### Integrated Development Environments (IDEs)
- 
  <p align="center">
 <a href="https://developer.android.com/studio" target="blank"><img align="center"
       src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png"
