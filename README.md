@@ -7,7 +7,7 @@
 
 ##### Expert in AI algorithm design, deep learning, machine learning, computer vision and embedded hardware development. Currently, I am working in the R&D department as an AI Algorithm Engineer. 
 
-##### My prior experience as an Electronic Hardware Engineer and Embedded Engineer has given me a solid foundation in the field of hardware development.With my technical expertise and strong interpersonal skills, I am confident in my ability to make a significant impact in any team or organization.
+##### My prior experience as an Electronic Hardware Engineer and Embedded Engineer has given me a solid foundation in the field of hardware development. 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshann1&show_icons=true&locale=en&layout=compact" alt="zeeshann1" /></p>
 </p>  
