@@ -3,11 +3,7 @@
 </div>
 </p>
 
-##### I am a competent and highly motivated AI Algorithm Engineer with comprehensive knowledge of new AI technologies, algorithms and products, with a passion for utilizing cutting-edge technologies to drive innovation and solve complex problems.
-
-##### Expert in AI algorithm design, deep learning, machine learning, computer vision and embedded hardware development. Currently, I am working in the R&D department as an AI Algorithm Engineer. 
-
-##### My prior experience as an Electronic Hardware Engineer and Embedded Engineer has given me a solid foundation in the field of hardware development. 
+##### I am a competent and highly motivated AI Algorithm Engineer with comprehensive knowledge of new AI technologies, algorithms and products, with a passion for utilizing cutting-edge technologies to drive innovation and solve complex problems. Expert in AI algorithm design, LLM & VLM ,RAG、 Experts in deep learning, machine learning, computer vision, and embedded hardware development. My prior experience in Electronics & Communication Engineering and Embedded systems has given me a solid foundation in the field of Embedded Hardware & Software Development, Wireless Communication and Circuits System.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeshann1&show_icons=true&locale=en&layout=compact" alt="zeeshann1" /></p>
 </p>  
